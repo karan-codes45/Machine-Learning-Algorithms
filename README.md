@@ -120,10 +120,8 @@ Machine-Learning-Algorithms/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Machine-Learning-Algorithms.git
+[git clone https://github.com/YOUR_USERNAME/Machine-Learning-Algorithms.git](https://github.com/karan-codes45/Machine-Learning-Algorithms.git)
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Navigate to the project directory
 
